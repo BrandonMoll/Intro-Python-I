@@ -55,27 +55,3 @@ geocache = Geocache("Newberry Views", 1.5, 2, 44.052137, -121.41556)
 print(geocache)
 
 
-
-# class Animal:
-#     # Define attributes
-#     def __init__(self, name, sound, species, num_legs=2):
-#         self.name = name
-#         self.species = species
-#         self.num_legs = num_legs
-#         self.sound = sound
-            
-#     # Define class functions
-#     def set_num_legs(self, num):
-#         self.num_legs = num
-
-#     def make_sound(self):
-#         print(self.sound)
-
-# # Instance of class
-# animal_a = Animal("ernie", "pbbbt", "elephant", 4)
-
-# animal_a.make_sound()
-# print(animal_a.num_legs)
-# animal_a.set_num_legs(3)
-# print(animal_a.num_legs)
-
